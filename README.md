@@ -10,7 +10,9 @@ O Cardápio NatuJuice é um projeto desenvolvido durante a Maratona Explorer 3.0
 ## :books: Funcionalidades
 
 * <b>Funcionalidade 1</b>: Acesso por QR CODE
+
 <img src="src/images/qr-code/frame.png" width="100px" align="right"> 
+
 * <b>Funcionalidade 2</b>: Apertando no Menu de Navegação, levará o cliente para a sessão escolhida. 
 * <b>Funcionalidade 3</b>: Totalmente responsivo
 
